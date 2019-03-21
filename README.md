@@ -1,0 +1,1 @@
+#Para ejecutar el archivo principal se digita inscribir -i=1 -n=catalina -c=12345 
